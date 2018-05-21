@@ -22,7 +22,7 @@ public:
 		return m_NumberA;
 	}
 
-	void setNumberB(int number)
+	void setNumberB(T number)
 	{
 		m_NumberB = number;
 	}
